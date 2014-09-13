@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ArrayOfItemCardapio xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ItemCardapio>
+    <ID>635453702020443075</ID>
+    <Nome>Batata Frita</Nome>
+    <Descricao>Porção pequena, média e grande.</Descricao>
+    <NomeImagem>images/batata.jpg</NomeImagem>
+    <Tipo>Aperitivo</Tipo>
+  </ItemCardapio>
+  <ItemCardapio>
+    <ID>635453702540878671</ID>
+    <Nome>Aipim Frito</Nome>
+    <Descricao>Porção pequena, média e grande.</Descricao>
+    <NomeImagem>images/aipim.jpg</NomeImagem>
+    <Tipo>Aperitivo</Tipo>
+  </ItemCardapio>
+  <ItemCardapio>
+    <ID>635453703317102177</ID>
+    <Nome>Bolinho de Bacalhau</Nome>
+    <Descricao>Porção pequena, média e grande.</Descricao>
+    <NomeImagem>images/bolinhobacalhau.jpg</NomeImagem>
+    <Tipo>Aperitivo</Tipo>
+  </ItemCardapio>
+  <ItemCardapio>
+    <ID>635453706128454523</ID>
+    <Nome>Água Mineral</Nome>
+    <Descricao>500ml.</Descricao>
+    <NomeImagem>images/aguamineral.jpg</NomeImagem>
+    <Tipo>Bebida</Tipo>
+  </ItemCardapio>
+  <ItemCardapio>
+    <ID>635453714549878240</ID>
+    <Nome>Refrigerante</Nome>
+    <Descricao>350ml ou 2L.</Descricao>
+    <NomeImagem>images/20114-refrigerante-lata.jpg</NomeImagem>
+    <Tipo>Bebida</Tipo>
+  </ItemCardapio>
+  <ItemCardapio>
+    <ID>635453715678181779</ID>
+    <Nome>À La Minuta</Nome>
+    <Descricao>Acompanha Arroz, Feijão, Batata Frita e Salada</Descricao>
+    <NomeImagem>images/minuta.jpg</NomeImagem>
+    <Tipo>PratoPrincipal</Tipo>
+  </ItemCardapio>
+  <ItemCardapio>
+    <ID>635453716048678231</ID>
+    <Nome>Bife à Parmegiana</Nome>
+    <Descricao>Acompanha Arroz, Feijão, Batata Frita e Salada</Descricao>
+    <NomeImagem>images/bifeparmegiana.jpg</NomeImagem>
+    <Tipo>PratoPrincipal</Tipo>
+  </ItemCardapio>
+  <ItemCardapio>
+    <ID>635453716527440821</ID>
+    <Nome>Macarrão</Nome>
+    <Descricao>Molho de Carne, Tomate ou Queijo</Descricao>
+    <NomeImagem>images/macarrao.jpg</NomeImagem>
+    <Tipo>PratoPrincipal</Tipo>
+  </ItemCardapio>
+  <ItemCardapio>
+    <ID>635453717518403260</ID>
+    <Nome>Pudim</Nome>
+    <Descricao>De Leite ou Chocolate. Porção pequena, média ou grande.</Descricao>
+    <NomeImagem>images/pudim.jpg</NomeImagem>
+    <Tipo>Sobremesa</Tipo>
+  </ItemCardapio>
+  <ItemCardapio>
+    <ID>635453717964753964</ID>
+    <Nome>Torta de Sorvete</Nome>
+    <Descricao>Porção Pequena, Média ou Grande</Descricao>
+    <NomeImagem>images/tortasorvete.jpg</NomeImagem>
+    <Tipo>Sobremesa</Tipo>
+  </ItemCardapio>
+  <ItemCardapio>
+    <ID>635453718718181043</ID>
+    <Nome>Filé com Queijo</Nome>
+    <Descricao>Acompanha Arroz, Feijão, Batata Frita e Salada.</Descricao>
+    <NomeImagem>images/filequeijo.jpg</NomeImagem>
+    <Tipo>PratoPrincipal</Tipo>
+  </ItemCardapio>
+</ArrayOfItemCardapio>
